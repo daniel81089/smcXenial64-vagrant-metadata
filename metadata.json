@@ -1,0 +1,15 @@
+{
+  "name": "smcXenial64",
+  "description": "This box contains Ubuntu 16.04 LTS 64-bit, set up for PHP, Node.js, and PHP with Laravel 5.5 using \"/srv/www/\" as the base directory to serve web apps.",
+  "versions": [
+    {
+      "version": "2017.09.30",
+      "providers": [
+        {
+          "name": "virtualbox",
+          "url": "https://scearcemedia.com/dev/vagrantBoxes/20170930smcXenial64.box"
+        }
+      ]
+    }
+  ]
+}
